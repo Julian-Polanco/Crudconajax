@@ -1,0 +1,28 @@
+div.container-sm>div.container-sm {
+    width: 600px;
+    margin: 50px auto;
+    background-color: rgba(0, 0, 0, .09);
+    padding-bottom: 20px;
+}
+div.container-sm input.form-control{
+margin-bottom: 10px;
+}
+div.container-sm>div.container-sm h2{
+   text-align: center;
+   padding: 20px 0px;
+}
+input.btn-prymary{
+    margin: 20px 0px;
+}
+div.col-7.alert-info{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    margin: auto;
+}
+div.col-7.alert-danger{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    margin: auto;
+}
